@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "author": "Mira Okafor",
+    "added": "March 3, 2026",
+    "title": "The Lantern Keeper",
+    "cover": "covers/sample-cover-1.webp",
+    "file": "books/sample-book-1.txt"
+  },
+  {
+    "id": 2,
+    "author": "Elias Verne",
+    "added": "March 18, 2026",
+    "title": "Notes from a Quiet Harbor",
+    "cover": "covers/sample-cover-2.webp",
+    "file": "books/sample-book-2.txt"
+  },
+  {
+    "id": 3,
+    "author": "Priya Nandakumar",
+    "added": "April 2, 2026",
+    "title": "A Field Guide to Small Wonders",
+    "cover": "covers/sample-cover-3.webp",
+    "file": "books/sample-book-3.txt"
+  },
+  {
+    "id": 4,
+    "author": "Tomas Reyes",
+    "added": "April 21, 2026",
+    "title": "The Clockmaker's Daughter",
+    "cover": "covers/sample-cover-4.webp",
+    "file": "books/sample-book-4.txt"
+  },
+  {
+    "id": 5,
+    "author": "Anonymous",
+    "added": "May 5, 2026",
+    "title": "Letters to Nowhere",
+    "cover": "covers/sample-cover-5.webp",
+    "file": "books/sample-book-5.txt"
+  },
+  {
+    "id": 6,
+    "author": "Hana Fujimori",
+    "added": "May 19, 2026",
+    "title": "Seven Short Tales",
+    "cover": "covers/sample-cover-6.webp",
+    "file": "books/sample-book-6.txt"
+  },
+  {
+    "id": 7,
+    "author": "J. A. Whitlock",
+    "added": "June 7, 2026",
+    "title": "Dust and Starlight",
+    "cover": "covers/sample-cover-7.webp",
+    "file": "books/sample-book-7.txt"
+  },
+  {
+    "id": 8,
+    "author": "Lucia Marenco",
+    "added": "June 24, 2026",
+    "title": "Poems for Rainy Days",
+    "cover": "covers/sample-cover-8.webp",
+    "file": "books/sample-book-8.txt"
+  },
+  {
+    "id": 9,
+    "author": "Various Authors",
+    "added": "July 12, 2026",
+    "title": "Unicode Garden",
+    "cover": "covers/sample-cover-9.webp",
+    "file": "books/sample-book-9.txt"
+  },
+  {
+    "id": 10,
+    "author": "Test Suite",
+    "added": "August 1, 2026",
+    "title": "The Very Long Book",
+    "cover": "covers/sample-cover-10.webp",
+    "file": "books/sample-book-10.txt"
+  }
+]
